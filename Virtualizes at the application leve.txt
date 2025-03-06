@@ -1,0 +1,6 @@
+Virtualizes at the application level, wrapping applications in a virtual layer to isolate them from the OS and other apps.
+
+The virtualization layer sits on top of the host operating system and provides an abstraction for the application.
+The application is isolated in its own "sandbox," so it interacts with the host system only through the virtualized layer.
+
+Virtualizes individual apps instead of the whole system. Each app runs in its own bubble (called a "sandbox") so it’s isolated from everything else.
